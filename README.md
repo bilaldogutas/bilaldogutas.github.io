@@ -1,8 +1,4 @@
-# bilal
-![Static Badge](https://img.shields.io/badge/openssf_best_practices-passing-pass)
-
-
-
+# bilal dogutas
 Badges: 
 ![Static Badge](https://img.shields.io/badge/openssf_best_practices-passing-pass)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10249/badge)](https://www.bestpractices.dev/projects/10249)
